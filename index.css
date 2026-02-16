@@ -7,7 +7,7 @@ body {
   background-color: #f0f0f0;
 }
 
-/* Card component styles */
+
 .cards{
   display:flex;
   gap:20px;
